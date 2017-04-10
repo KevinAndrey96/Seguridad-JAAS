@@ -1,0 +1,4 @@
+<Usuario:'Rick Grimes' Cargo:'Gerente' Login:'rick' Password:'rick1234' Rol:'AC,GV,GN,GC'>
+<Usuario:'Daryl Dixon' Cargo:'Jefe de Ventas' Login:'daryl' Password:'daryl1234' Rol:'GV'>
+<Usuario:'Maggie Greene' Cargo:'Jefe de Personal' Login:'maggie' Password:'maggie1234' Rol:'GN'>
+<Usuario:'Carol Peletier' Cargo:'Jefe de Compras' Login:'carol' Password:'carol1234' Rol:'GC'>
